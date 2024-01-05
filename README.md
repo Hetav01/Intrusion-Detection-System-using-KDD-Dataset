@@ -6,7 +6,9 @@ Intrusions are considered the bane of the world of cybersecurity.
 Hence, developing a strong intrusion detection system which can
 be used to detect abnormal network connections before hand is
 vital. In this project, a simple intrusion detection system trained
-on the KDD-99 dataset was demonstrated. This dataset is considered a **classical benchmark** for developing intrusion detection systems in the world of cybersecurity.
+on the KDD-99 dataset was demonstrated. 
+
+This dataset is considered a **classical benchmark** for developing intrusion detection systems in the world of cybersecurity.
 
 I formulated and tackled multiple problem statements in the project(***These are explained in detail in the report attached***).
 1. Perform some kind of feature reduction process to make the dataset easier
