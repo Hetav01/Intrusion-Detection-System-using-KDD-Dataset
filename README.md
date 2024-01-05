@@ -10,7 +10,7 @@ on the KDD-99 dataset was demonstrated.
 
 This dataset is considered a **classical benchmark** for developing intrusion detection systems in the world of cybersecurity.
 
-I formulated and tackled multiple problem statements in the project(***These are explained in detail in the report attached***).
+I formulated and tackled multiple problem statements in the project(***These are explained in detail in the code itself***).
 1. Perform some kind of feature reduction process to make the dataset easier
 to understand for the model.
 2. Perform a binary classification on the 2 classes: NORMAL, ANOMALY.
