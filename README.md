@@ -1,4 +1,4 @@
-# Intrusion-Detection-System-using-KDD-Dataset
+# Intrusion Detection System using the KDD99 Dataset
 
 # About the Project.
 
