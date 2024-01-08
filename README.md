@@ -1,5 +1,7 @@
 # Intrusion Detection System using the KDD99 Dataset
 
+### 💡 Update: Do check out the notes I uploaded on how I formulated my ideas before coding this whole project!
+
 # About the Project.
 
 Intrusions are considered the bane of the world of cybersecurity.
@@ -19,6 +21,7 @@ to understand for the model.
 3. Perform a multi-class classification on the 5 classes: NORMAL, DOS,
 PROBE, R2L, U2R using the same pipeline(Standard Scaler).
 4. Perform Hyperparameter Tuning
+
 
 # Steps to run the code.
 1. Clone this repository.
